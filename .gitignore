@@ -86,5 +86,9 @@
 /test/py/gen-py
 /test/rb/Makefile
 /test/rb/Makefile.in
+/test/scala/src_managed
+/test/scala/project/build
+/test/scala/project/boot
+/test/scala/target
 /ylwrap
 *~

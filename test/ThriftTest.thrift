@@ -22,6 +22,7 @@
  */
 
 namespace java thrift.test
+namespace scala thrift.test
 namespace cpp thrift.test
 namespace rb Thrift.Test
 namespace perl ThriftTest
@@ -39,6 +40,9 @@ enum Numberz
   SIX,
   EIGHT = 8
 }
+
+const i32 INT_CONSTANT = 666
+const string STR_CONSTANT = "my string"
 
 typedef i64 UserId
 
